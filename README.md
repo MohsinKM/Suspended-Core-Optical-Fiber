@@ -6,10 +6,10 @@
 Since this is kind of old work, I forgot many details by now. However, I can help figuring out at least starting point. Please follow these steps
 
  1. Donwload zip file and explore different folders.
- 2. Inside the folder "Core Codes" you should be able to see all necessary codes written in MATLAB and COMSOL-Multiphysics scripting.
+ 2. Inside all these folder you should be able to see all necessary codes written in MATLAB and COMSOL-Multiphysics scripting.
  3. I can tell you the common tips I do for exploring my old codes. Just sort them with date and see which one was created first. In this way you can find a way around to figure out where to start.
  4. Make sure you start "COMSOL with MATLAB" live connection only then you will be able to use MATLAB scripting for Finite Element Analysis.
- 5. Starting from "Core Codes" you might find other folders useful as well for other calculations e.g. Nonlinearity, Effective Area etc.
+ 5. Starting from first folder you might find other folders useful as well for other calculations e.g. Nonlinearity, Effective Area etc.
  6. Incase these horrible codes might make you cry, please do not ask me to rewrite those 6 years old codes with commments. At that time I was not that good in code managment as I am now. I hope your interest to this subject matter will win over my horrible coding during my seinior year of undergraduate life.
 
 Thanks for visiting this page.
